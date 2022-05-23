@@ -1,0 +1,26 @@
+_repo: The-Cabala_68105
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wilder, Thornton Niven
+    gutenberg_agent_id: '54602'
+    url: http://www.gutenberg.org/2009/agents/54602
+description: ''
+gutenberg_issued: '2022-05-17'
+identifiers:
+  gutenberg: '68105'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/002872608
+pgterms:marc905: 20220417091439wilder
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: United States :A. & C. Boni,1926.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Cabala
+url: http://www.gutenberg.org/ebooks/68105
